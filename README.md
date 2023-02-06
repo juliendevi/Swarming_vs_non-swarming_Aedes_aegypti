@@ -5,3 +5,7 @@ Whole head RNA-sequencing of swarming and non-swarming yellow fever mosquito (Ae
 ## Differential gene expression analysis
 
 The code 'Gene_lvl_analysis.R' contain the analysis of RNA-seq at the gene level with differentially express module analysis. 
+
+## Differential transcript expression analysis
+
+The code 'Trancript_lvl_analysis.R' contain the analysis of RNA-seq at the trancript level. 
