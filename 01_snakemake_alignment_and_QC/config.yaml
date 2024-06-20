@@ -1,0 +1,9 @@
+samples: 
+ s11: data/samples/s11_1.fq.gz
+ s12: data/samples/s12_1.fq.gz
+ s13: data/samples/s13_1.fq.gz
+ s14: data/samples/s14_1.fq.gz
+ s21: data/samples/s21_1.fq.gz
+ s22: data/samples/s22_1.fq.gz
+ s23: data/samples/s23_1.fq.gz
+ s24: data/samples/s24_1.fq.gz
